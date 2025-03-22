@@ -1,6 +1,5 @@
 local https = require("https")
 local lick = require("lick")
-lick.reset = true
 
 function love.load()
 end
